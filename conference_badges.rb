@@ -13,8 +13,6 @@ end
 
 
  def assign_rooms(room_assignments)
-     
-      attendees=["Edsger", "Ada", "Charles", "Alan", "Grace", "Linus", "Matz"]
           puts "Hello, #{attendees}! You'll be assigned to room #{room_assignments}!"
          
         end

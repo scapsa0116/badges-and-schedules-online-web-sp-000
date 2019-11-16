@@ -21,6 +21,7 @@ end
         end
       
       
-de
+def printer
+end
    
 

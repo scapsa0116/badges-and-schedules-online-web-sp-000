@@ -13,7 +13,9 @@ end
 
 
  def assign_rooms(room_assignments)
-          puts "Hello, #{attendees}! You'll be assigned to room #{room_assignments}!"
+   array2 = []
+    room_assignments.each do |rooms|
+          array2<< "Hello, #{rooms}! You'll be assigned to room #{room_assignments}!"
          
         end
       

@@ -28,5 +28,6 @@ def printer(attendees)
     puts message2
 end
 end
+end
    
 

@@ -28,6 +28,7 @@ def printer(attendees)
     puts "Hello, my name is Ada."
 end
 end
+end
 
    
 

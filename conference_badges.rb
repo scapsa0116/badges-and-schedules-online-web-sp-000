@@ -17,6 +17,7 @@ end
     room_assignments.each_with_index do |rooms, index|
           array2<< "Hello, #{rooms}! You'll be assigned to room #{index}!"
          end
+         return array2
         end
       
       

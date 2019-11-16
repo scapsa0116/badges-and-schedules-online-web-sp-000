@@ -13,10 +13,10 @@ end
 
 
  def assign_rooms(room_assignments)
-      room_assignments = 0
+     
       attendees=["Edsger", "Ada", "Charles", "Alan", "Grace", "Linus", "Matz"]
           puts "Hello, #{attendees}! You'll be assigned to room #{room_assignments}!"
-          room_assignments +=1
+         
         end
       
       
